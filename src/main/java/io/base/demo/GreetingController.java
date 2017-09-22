@@ -7,6 +7,29 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+/******************************************************************************
+ * Copyright (c) 2017 amit.kshirsagar.13@gmail.com to Present.
+ * All rights reserved.
+ *****************************************************************************/
+
+/**
+ * <p>
+ * <b>Overview:</b>
+ * <p>
+ * 
+ * 
+ * <pre>
+ * &#64;projectName demo
+ * Creation date: Sep 22, 2017
+ * &#64;author Amit Kshirsagar
+ * &#64;version 1.0
+ * &#64;since
+ * 
+ * <p><b>Modification History:</b><p>
+ * 
+ * 
+ * </pre>
+ */
 @RestController
 public class GreetingController {
 
