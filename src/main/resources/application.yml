@@ -1,0 +1,3 @@
+server:
+  address: ${HOSTNAME:localhost.terminix.com}
+  port: ${VPORT:8988}
