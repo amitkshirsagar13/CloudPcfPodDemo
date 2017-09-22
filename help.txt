@@ -1,1 +1,2 @@
+docker login --username=amitkshirsagar13 --email=amit.kshirsagar.13@gmail.com
 docker push amitkshirsagar13/shinigami
